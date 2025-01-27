@@ -19,6 +19,6 @@ The project aims to create an **IoT platform** that allows users to upload, moni
 ## Demo Video
 
 For a detailed explanation of the website and its features, watch the demo video below:
-https://drive.google.com/file/d/1OtpW0h6GyxX93vpPb9hetKDo-r_MFyDe/view?usp=drive_link
+[watch the demo video.](https://drive.google.com/file/d/1OtpW0h6GyxX93vpPb9hetKDo-r_MFyDe/view?usp=drive_link)
 
 In the video, you'll learn about the functionality of the site, how to navigate through it, and the various actions you can perform.
