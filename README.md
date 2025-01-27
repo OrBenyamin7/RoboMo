@@ -10,8 +10,6 @@ The project aims to create an **IoT platform** that allows users to upload, moni
 
 ## Repository Contents
 
-**-Source Code:** The main codebase including the front-end and back-end components.
-
 **-Project Book Phase A:** A detailed document outlining the development process, challenges, architecture, and overall methodology used in the project during Phase A.
 
 **-PowerPoint Presentation:** A summary presentation highlighting key aspects of the project, including objectives, achievements in Phase A.
