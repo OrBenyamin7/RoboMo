@@ -15,3 +15,10 @@ The project aims to create an **IoT platform** that allows users to upload, moni
 **-PowerPoint Presentation:** A summary presentation highlighting key aspects of the project, including objectives, achievements in Phase A.
 
 **-Project Poster:** This document outlines the key aspects of the Phase B development, showcasing the architecture, requirements, and data flow within the system. It includes an evaluation of the system’s performance, the workflow involved in the development process, and screenshots demonstrating the project's functionality.
+
+## Demo Video
+
+For a detailed explanation of the website and its features, watch the demo video below:
+https://drive.google.com/file/d/1OtpW0h6GyxX93vpPb9hetKDo-r_MFyDe/view?usp=drive_link
+
+In the video, you'll learn about the functionality of the site, how to navigate through it, and the various actions you can perform.
