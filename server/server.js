@@ -235,4 +235,4 @@ const shutdown = () => {
 
 // Handle termination signals
 process.on("SIGINT", shutdown); // For Ctrl+C
-process.on("SIGTERM", shutdown); // For system termination signals
+process.on("SIGTERM", shutdown); // For system termination signals 
