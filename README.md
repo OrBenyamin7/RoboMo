@@ -24,4 +24,4 @@ For a detailed explanation of the website and its features, watch the demo video
 
 [watch the demo video](https://drive.google.com/file/d/170sLvRqR37K61F969uXSGDVmfJ4pZeEF/view?usp=share_link)
 
-In the video, you'll learn about the functionality of the site, how to navigate through it, and the various actions you can perform.
+In the video, you'll learn about the functionality of the site, how to navigate through it, and the various actions you can perform. 
